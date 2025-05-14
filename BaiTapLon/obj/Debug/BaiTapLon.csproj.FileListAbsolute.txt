@@ -1,0 +1,15 @@
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.AssemblyReference.cache
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Properties.Resources.resources
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.GenerateResource.cache
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.csproj.CoreCompileInputs.cache
+F:\DSA\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe.config
+F:\DSA\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.exe
+F:\DSA\BaiTapLon\BaiTapLon\bin\Debug\BaiTapLon.pdb
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.exe
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.pdb
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.FormMain.resources
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.Login.resources
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.FormDiemSV.resources
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.FormGV.resources
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.FormHP.resources
+F:\DSA\BaiTapLon\BaiTapLon\obj\Debug\BaiTapLon.FormSV.resources
