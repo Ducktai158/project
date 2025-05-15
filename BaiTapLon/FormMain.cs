@@ -156,7 +156,9 @@ namespace BaiTapLon
             hideAllForm();
             itemMenuDiemClicked = true;
             fDiemSV.Show();
+            
         }
+
 
         private void ItemSV_MouseLeave(object sender, EventArgs e)
         {

@@ -32,8 +32,12 @@
             this.dgvDiem = new System.Windows.Forms.DataGridView();
             this.label6 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.tbDiemGK = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.tbDiemThi = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.btnRefresh = new System.Windows.Forms.Panel();
@@ -60,10 +64,7 @@
             this.btnTimKiem = new System.Windows.Forms.Button();
             this.tbTimKiemTheoMa = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.label10 = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.dgvDiem)).BeginInit();
             this.panel2.SuspendLayout();
             this.btnRefresh.SuspendLayout();
@@ -79,21 +80,22 @@
             // dgvDiem
             // 
             this.dgvDiem.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvDiem.Location = new System.Drawing.Point(418, 151);
+            this.dgvDiem.Location = new System.Drawing.Point(419, 135);
             this.dgvDiem.Margin = new System.Windows.Forms.Padding(4);
             this.dgvDiem.Name = "dgvDiem";
             this.dgvDiem.RowHeadersWidth = 51;
-            this.dgvDiem.Size = new System.Drawing.Size(1037, 674);
+            this.dgvDiem.Size = new System.Drawing.Size(1037, 589);
             this.dgvDiem.TabIndex = 11;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.Location = new System.Drawing.Point(61, 135);
+            this.label6.Font = new System.Drawing.Font("Montserrat Medium", 13.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.ForeColor = System.Drawing.Color.LightSeaGreen;
+            this.label6.Location = new System.Drawing.Point(62, 119);
             this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(170, 26);
+            this.label6.Size = new System.Drawing.Size(222, 30);
             this.label6.TabIndex = 9;
             this.label6.Text = "Thông tin chi tiết";
             // 
@@ -119,21 +121,49 @@
             this.panel2.Controls.Add(this.tbDiemCC);
             this.panel2.Controls.Add(this.label5);
             this.panel2.Controls.Add(this.tbMaLop);
-            this.panel2.Location = new System.Drawing.Point(13, 151);
+            this.panel2.Location = new System.Drawing.Point(14, 135);
             this.panel2.Margin = new System.Windows.Forms.Padding(4);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(377, 673);
+            this.panel2.Size = new System.Drawing.Size(377, 589);
             this.panel2.TabIndex = 10;
+            // 
+            // textBox2
+            // 
+            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox2.Location = new System.Drawing.Point(193, 351);
+            this.textBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(169, 26);
+            this.textBox2.TabIndex = 36;
+            // 
+            // textBox1
+            // 
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBox1.Location = new System.Drawing.Point(193, 235);
+            this.textBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(169, 26);
+            this.textBox1.TabIndex = 36;
             // 
             // tbDiemGK
             // 
             this.tbDiemGK.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbDiemGK.Location = new System.Drawing.Point(193, 180);
+            this.tbDiemGK.Location = new System.Drawing.Point(218, 180);
             this.tbDiemGK.Margin = new System.Windows.Forms.Padding(4);
             this.tbDiemGK.Name = "tbDiemGK";
-            this.tbDiemGK.Size = new System.Drawing.Size(169, 26);
+            this.tbDiemGK.Size = new System.Drawing.Size(144, 26);
             this.tbDiemGK.TabIndex = 36;
-            this.tbDiemGK.Text = "0";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Montserrat", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Location = new System.Drawing.Point(19, 352);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(142, 24);
+            this.label4.TabIndex = 34;
+            this.label4.Text = "Điểm Tổng Kết:";
             // 
             // tbDiemThi
             // 
@@ -143,16 +173,26 @@
             this.tbDiemThi.Name = "tbDiemThi";
             this.tbDiemThi.Size = new System.Drawing.Size(169, 26);
             this.tbDiemThi.TabIndex = 35;
-            this.tbDiemThi.Text = "0";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Montserrat", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(19, 236);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(129, 24);
+            this.label3.TabIndex = 34;
+            this.label3.Text = "Điểm Giữa Kỳ:";
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Font = new System.Drawing.Font("Montserrat", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(19, 181);
             this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(164, 20);
+            this.label8.Size = new System.Drawing.Size(191, 24);
             this.label8.TabIndex = 34;
             this.label8.Text = "Điểm Thường Xuyên:";
             this.label8.Click += new System.EventHandler(this.label8_Click);
@@ -160,11 +200,11 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Font = new System.Drawing.Font("Montserrat", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(19, 299);
             this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(136, 20);
+            this.label7.Size = new System.Drawing.Size(155, 24);
             this.label7.TabIndex = 32;
             this.label7.Text = "Điểm Cuối Cùng:";
             // 
@@ -178,18 +218,19 @@
             this.btnRefresh.Location = new System.Drawing.Point(34, 430);
             this.btnRefresh.Margin = new System.Windows.Forms.Padding(4);
             this.btnRefresh.Name = "btnRefresh";
-            this.btnRefresh.Size = new System.Drawing.Size(114, 45);
+            this.btnRefresh.Size = new System.Drawing.Size(127, 45);
             this.btnRefresh.TabIndex = 31;
             // 
             // label20
             // 
             this.label20.AutoSize = true;
             this.label20.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.label20.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label20.Location = new System.Drawing.Point(7, 10);
+            this.label20.Font = new System.Drawing.Font("Montserrat Medium", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label20.ForeColor = System.Drawing.Color.White;
+            this.label20.Location = new System.Drawing.Point(11, 7);
             this.label20.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(86, 25);
+            this.label20.Size = new System.Drawing.Size(109, 27);
             this.label20.TabIndex = 23;
             this.label20.Text = "Làm mới";
             // 
@@ -210,11 +251,12 @@
             // label19
             // 
             this.label19.AutoSize = true;
-            this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label19.Location = new System.Drawing.Point(45, 10);
+            this.label19.Font = new System.Drawing.Font("Montserrat Medium", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label19.ForeColor = System.Drawing.Color.White;
+            this.label19.Location = new System.Drawing.Point(46, 9);
             this.label19.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(48, 25);
+            this.label19.Size = new System.Drawing.Size(52, 27);
             this.label19.TabIndex = 23;
             this.label19.Text = "Xóa";
             // 
@@ -231,7 +273,7 @@
             // 
             // btnSua
             // 
-            this.btnSua.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(211)))), ((int)(((byte)(158)))), ((int)(((byte)(0)))));
+            this.btnSua.BackColor = System.Drawing.Color.Orange;
             this.btnSua.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.btnSua.Controls.Add(this.label18);
             this.btnSua.Controls.Add(this.pictureBox2);
@@ -246,11 +288,12 @@
             // label18
             // 
             this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.Location = new System.Drawing.Point(45, 10);
+            this.label18.Font = new System.Drawing.Font("Montserrat Medium", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.ForeColor = System.Drawing.Color.White;
+            this.label18.Location = new System.Drawing.Point(46, 9);
             this.label18.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(48, 25);
+            this.label18.Size = new System.Drawing.Size(53, 27);
             this.label18.TabIndex = 23;
             this.label18.Text = "Sửa";
             // 
@@ -276,17 +319,18 @@
             this.btnThem.Location = new System.Drawing.Point(34, 508);
             this.btnThem.Margin = new System.Windows.Forms.Padding(4);
             this.btnThem.Name = "btnThem";
-            this.btnThem.Size = new System.Drawing.Size(114, 45);
+            this.btnThem.Size = new System.Drawing.Size(127, 45);
             this.btnThem.TabIndex = 27;
             // 
             // label15
             // 
             this.label15.AutoSize = true;
-            this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label15.Location = new System.Drawing.Point(45, 10);
+            this.label15.Font = new System.Drawing.Font("Montserrat Medium", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.ForeColor = System.Drawing.Color.White;
+            this.label15.Location = new System.Drawing.Point(46, 9);
             this.label15.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(63, 25);
+            this.label15.Size = new System.Drawing.Size(75, 27);
             this.label15.TabIndex = 23;
             this.label15.Text = "Thêm";
             // 
@@ -314,31 +358,31 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Font = new System.Drawing.Font("Montserrat", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.Location = new System.Drawing.Point(19, 78);
             this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(64, 20);
+            this.label11.Size = new System.Drawing.Size(66, 24);
             this.label11.TabIndex = 12;
             this.label11.Text = "Mã SV:";
             // 
             // tbMaSV
             // 
             this.tbMaSV.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbMaSV.Location = new System.Drawing.Point(117, 75);
+            this.tbMaSV.Location = new System.Drawing.Point(105, 75);
             this.tbMaSV.Margin = new System.Windows.Forms.Padding(4);
             this.tbMaSV.Name = "tbMaSV";
-            this.tbMaSV.Size = new System.Drawing.Size(245, 26);
+            this.tbMaSV.Size = new System.Drawing.Size(257, 26);
             this.tbMaSV.TabIndex = 13;
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Font = new System.Drawing.Font("Montserrat", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.Location = new System.Drawing.Point(19, 126);
             this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(149, 20);
+            this.label9.Size = new System.Drawing.Size(169, 24);
             this.label9.TabIndex = 8;
             this.label9.Text = "Điểm Chuyên Cần:";
             // 
@@ -350,36 +394,36 @@
             this.tbDiemCC.Name = "tbDiemCC";
             this.tbDiemCC.Size = new System.Drawing.Size(169, 26);
             this.tbDiemCC.TabIndex = 9;
-            this.tbDiemCC.Text = "0";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Font = new System.Drawing.Font("Montserrat", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(19, 25);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(66, 20);
+            this.label5.Size = new System.Drawing.Size(70, 24);
             this.label5.TabIndex = 2;
             this.label5.Text = "Mã HP:";
             // 
             // tbMaLop
             // 
             this.tbMaLop.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbMaLop.Location = new System.Drawing.Point(117, 25);
+            this.tbMaLop.Location = new System.Drawing.Point(105, 25);
             this.tbMaLop.Margin = new System.Windows.Forms.Padding(4);
             this.tbMaLop.Name = "tbMaLop";
-            this.tbMaLop.Size = new System.Drawing.Size(245, 26);
+            this.tbMaLop.Size = new System.Drawing.Size(257, 26);
             this.tbMaLop.TabIndex = 3;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(452, 41);
+            this.label2.Font = new System.Drawing.Font("Montserrat SemiBold", 13.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.LightSeaGreen;
+            this.label2.Location = new System.Drawing.Point(681, 30);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(101, 26);
+            this.label2.Size = new System.Drawing.Size(118, 30);
             this.label2.TabIndex = 6;
             this.label2.Text = "Tìm kiếm";
             // 
@@ -389,18 +433,18 @@
             this.panel1.Controls.Add(this.btnTatCa);
             this.panel1.Controls.Add(this.btnTimKiem);
             this.panel1.Controls.Add(this.tbTimKiemTheoMa);
-            this.panel1.Location = new System.Drawing.Point(418, 55);
+            this.panel1.Location = new System.Drawing.Point(647, 45);
             this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(619, 228);
+            this.panel1.Size = new System.Drawing.Size(619, 73);
             this.panel1.TabIndex = 8;
             // 
             // btnTatCa
             // 
-            this.btnTatCa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
-            this.btnTatCa.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTatCa.BackColor = System.Drawing.Color.LightSeaGreen;
+            this.btnTatCa.Font = new System.Drawing.Font("Montserrat Medium", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTatCa.ForeColor = System.Drawing.SystemColors.Info;
-            this.btnTatCa.Location = new System.Drawing.Point(476, 17);
+            this.btnTatCa.Location = new System.Drawing.Point(466, 16);
             this.btnTatCa.Margin = new System.Windows.Forms.Padding(4);
             this.btnTatCa.Name = "btnTatCa";
             this.btnTatCa.Size = new System.Drawing.Size(100, 43);
@@ -410,11 +454,11 @@
             // 
             // btnTimKiem
             // 
-            this.btnTimKiem.BackColor = System.Drawing.Color.DarkCyan;
+            this.btnTimKiem.BackColor = System.Drawing.Color.LightSeaGreen;
             this.btnTimKiem.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnTimKiem.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnTimKiem.Font = new System.Drawing.Font("Montserrat Medium", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTimKiem.ForeColor = System.Drawing.SystemColors.InactiveBorder;
-            this.btnTimKiem.Location = new System.Drawing.Point(368, 17);
+            this.btnTimKiem.Location = new System.Drawing.Point(345, 16);
             this.btnTimKiem.Margin = new System.Windows.Forms.Padding(4);
             this.btnTimKiem.Name = "btnTimKiem";
             this.btnTimKiem.Size = new System.Drawing.Size(100, 43);
@@ -424,75 +468,48 @@
             // 
             // tbTimKiemTheoMa
             // 
-            this.tbTimKiemTheoMa.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbTimKiemTheoMa.Font = new System.Drawing.Font("Times New Roman", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.tbTimKiemTheoMa.ForeColor = System.Drawing.SystemColors.GrayText;
             this.tbTimKiemTheoMa.Location = new System.Drawing.Point(37, 25);
             this.tbTimKiemTheoMa.Margin = new System.Windows.Forms.Padding(4);
             this.tbTimKiemTheoMa.Name = "tbTimKiemTheoMa";
-            this.tbTimKiemTheoMa.Size = new System.Drawing.Size(256, 26);
+            this.tbTimKiemTheoMa.Size = new System.Drawing.Size(256, 27);
             this.tbTimKiemTheoMa.TabIndex = 0;
-            this.tbTimKiemTheoMa.Text = "nhập mã lớp";
+            this.tbTimKiemTheoMa.Text = "Nhập mã lớp";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.Lime;
-            this.label1.Location = new System.Drawing.Point(550, 6);
+            this.label1.BackColor = System.Drawing.Color.Transparent;
+            this.label1.Font = new System.Drawing.Font("Montserrat", 22.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.SeaGreen;
+            this.label1.Location = new System.Drawing.Point(45, 45);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(273, 46);
+            this.label1.Size = new System.Drawing.Size(306, 51);
             this.label1.TabIndex = 7;
-            this.label1.Text = "Quản lý Điểm";
+            this.label1.Text = "QUẢN LÝ ĐIỂM";
             // 
-            // label3
+            // label10
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(19, 236);
-            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(117, 20);
-            this.label3.TabIndex = 34;
-            this.label3.Text = "Điểm Giữa Kỳ:";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox1.Location = new System.Drawing.Point(193, 235);
-            this.textBox1.Margin = new System.Windows.Forms.Padding(4);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(169, 26);
-            this.textBox1.TabIndex = 36;
-            this.textBox1.Text = "0";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(19, 352);
-            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(125, 20);
-            this.label4.TabIndex = 34;
-            this.label4.Text = "Điểm Tổng Kết:";
-            // 
-            // textBox2
-            // 
-            this.textBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.textBox2.Location = new System.Drawing.Point(193, 351);
-            this.textBox2.Margin = new System.Windows.Forms.Padding(4);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(169, 26);
-            this.textBox2.TabIndex = 36;
-            this.textBox2.Text = "0";
+            this.label10.AutoSize = true;
+            this.label10.BackColor = System.Drawing.Color.Red;
+            this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label10.ForeColor = System.Drawing.Color.Transparent;
+            this.label10.Location = new System.Drawing.Point(1445, -1);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(24, 29);
+            this.label10.TabIndex = 12;
+            this.label10.Text = "x";
+            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // FormDiemSV
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
-            this.ClientSize = new System.Drawing.Size(1469, 839);
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(1469, 755);
+            this.Controls.Add(this.label10);
             this.Controls.Add(this.dgvDiem);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.panel2);
@@ -560,5 +577,6 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label10;
     }
 }

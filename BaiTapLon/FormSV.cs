@@ -16,5 +16,10 @@ namespace BaiTapLon
         {
             InitializeComponent();
         }
+
+        private void FormSV_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

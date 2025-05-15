@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace BaiTapLon
 {
@@ -72,6 +73,27 @@ namespace BaiTapLon
         private void label1_Click_1(object sender, EventArgs e)
         {
 
+        }
+
+        private void tbUserName_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbUserName_Click(object sender, EventArgs e)
+        {
+            this.tbUserName.Text = "";
+        }
+
+        private void tbPassword_Click(object sender, EventArgs e)
+        {
+            this.tbPassword.Text = "";
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+            tbPassword.UseSystemPasswordChar = !checkBox1.Checked;
+            checkBox1.Text = checkBox1.Checked ? "Hiện mật khẩu" : "Hiện mật khẩu";
         }
     }
 }
