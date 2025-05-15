@@ -16,5 +16,15 @@ namespace BaiTapLon
         {
             InitializeComponent();
         }
+
+        private void FormHP_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tbTimKiemTheoTen_Click(object sender, EventArgs e)
+        {
+            this.tbTimKiemTheoTen.Text = "";
+        }
     }
 }
