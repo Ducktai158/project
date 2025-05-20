@@ -59,7 +59,8 @@ namespace BaiTapLon
             if (e.RowIndex >= 0)
             {
                 string maLop = dataGridGV.Rows[e.RowIndex].Cells["MaLop"].Value.ToString();
-                LoadSinhVienVaDiem(maLop);
+                 LoadSinhVienVaDiem(maLop);
+
             }
         }
         private void LoadSinhVienVaDiem(string maLop)
@@ -78,7 +79,7 @@ namespace BaiTapLon
             }
         }
 
-     
+       
 
         private void QuayLai_Click(object sender, EventArgs e)
         {

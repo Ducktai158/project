@@ -67,12 +67,12 @@
             this.lbClose.AutoSize = true;
             this.lbClose.BackColor = System.Drawing.Color.Red;
             this.lbClose.Cursor = System.Windows.Forms.Cursors.WaitCursor;
-            this.lbClose.Font = new System.Drawing.Font("UTM HelvetIns", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbClose.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lbClose.ForeColor = System.Drawing.Color.Transparent;
             this.lbClose.Location = new System.Drawing.Point(995, 0);
             this.lbClose.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lbClose.Name = "lbClose";
-            this.lbClose.Size = new System.Drawing.Size(33, 40);
+            this.lbClose.Size = new System.Drawing.Size(37, 32);
             this.lbClose.TabIndex = 23;
             this.lbClose.Text = " X ";
             this.lbClose.UseCompatibleTextRendering = true;

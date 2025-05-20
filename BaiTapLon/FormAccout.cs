@@ -25,6 +25,7 @@ namespace BaiTapLon
         {
             cmbRole.Items.Add("SinhVien");
             cmbRole.Items.Add("GiangVien");
+            cmbRole.Items.Add("ChuNhiem");
             cmbRole.SelectedIndex = 0; // Chọn vai trò đầu tiên mặc định
         }
 
@@ -44,6 +45,22 @@ namespace BaiTapLon
                 return count > 0;
             }
         }
+        private bool IsRelatedInfoUsed(SqlConnection connection, string role, string relatedID)
+        {
+            string query = @"
+        SELECT COUNT(*) 
+        FROM Users 
+        WHERE Role = @Role AND RelatedID = @RelatedID";
+
+            using (SqlCommand cmd = new SqlCommand(query, connection))
+            {
+                cmd.Parameters.AddWithValue("@Role", role);
+                cmd.Parameters.AddWithValue("@RelatedID", relatedID);
+                int count = (int)cmd.ExecuteScalar();
+                return count > 0; // true nếu đã tồn tại user với mã số và vai trò này
+            }
+        }
+
         private void AddUserToDatabase(SqlConnection connection, string username, string hashedPassword, string role, string relatedInfo)
         {
             using (SqlCommand command = new SqlCommand("AddNewUser", connection))
@@ -66,7 +83,7 @@ namespace BaiTapLon
             string relatedInfo = txtRelatedInfo.Text;
 
             // 1. Kiểm tra đầu vào
-            if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password) || string.IsNullOrWhiteSpace(confirmPassword) || string.IsNullOrWhiteSpace(role))
+            if (string.IsNullOrWhiteSpace(username) || string.IsNullOrWhiteSpace(password) || string.IsNullOrWhiteSpace(confirmPassword) || string.IsNullOrWhiteSpace(role) || string.IsNullOrWhiteSpace(relatedInfo))
             {
                 MessageBox.Show("Vui lòng nhập đầy đủ thông tin.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
@@ -98,6 +115,11 @@ namespace BaiTapLon
                     }
 
                     // 3. Băm mật khẩu
+                    if (IsRelatedInfoUsed(connection, role, relatedInfo))
+                    {
+                        MessageBox.Show("Mã số không hợp lệ hoặc không tồn tại trong hệ thống.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                        return;
+                    }
 
                     // 4. Thêm người dùng vào cơ sở dữ liệu (sử dụng Stored Procedure AddNewUser)
                     AddUserToDatabase(connection, username, password, role, relatedInfo);
@@ -111,6 +133,16 @@ namespace BaiTapLon
             {
                 MessageBox.Show($"Lỗi: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
+        }
+
+        private void cmbRole_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FormAccout_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

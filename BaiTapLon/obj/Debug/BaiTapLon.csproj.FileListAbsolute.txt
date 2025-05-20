@@ -46,3 +46,4 @@ F:\project-fix1\BaiTapLon\obj\Debug\BaiTapLon.pdb
 F:\project-fix1\BaiTapLon\obj\Debug\BaiTapLon.FormAccout.resources
 F:\project-fix1\BaiTapLon\obj\Debug\BaiTapLon.FormDiem1SV.resources
 F:\project-fix1\BaiTapLon\obj\Debug\BaiTapLon.Form1GV.resources
+F:\project-fix1\BaiTapLon\obj\Debug\BaiTapLon.FormCN.resources

@@ -68,6 +68,7 @@
             this.cmbRole.Name = "cmbRole";
             this.cmbRole.Size = new System.Drawing.Size(176, 24);
             this.cmbRole.TabIndex = 13;
+            this.cmbRole.SelectedIndexChanged += new System.EventHandler(this.cmbRole_SelectedIndexChanged);
             // 
             // txtRelatedInfo
             // 
@@ -164,6 +165,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "FormAccout";
             this.Text = "FormAccout";
+            this.Load += new System.EventHandler(this.FormAccout_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

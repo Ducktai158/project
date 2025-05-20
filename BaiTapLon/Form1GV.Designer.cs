@@ -41,6 +41,10 @@
             this.btnThem = new System.Windows.Forms.Panel();
             this.label15 = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.comboHK = new System.Windows.Forms.ComboBox();
+            this.comboNH = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridGV)).BeginInit();
             this.btnRefresh.SuspendLayout();
             this.btnXoa.SuspendLayout();
@@ -54,11 +58,11 @@
             // dataGridGV
             // 
             this.dataGridGV.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridGV.Location = new System.Drawing.Point(186, 12);
+            this.dataGridGV.Location = new System.Drawing.Point(232, 12);
             this.dataGridGV.Name = "dataGridGV";
             this.dataGridGV.RowHeadersWidth = 51;
             this.dataGridGV.RowTemplate.Height = 24;
-            this.dataGridGV.Size = new System.Drawing.Size(1105, 550);
+            this.dataGridGV.Size = new System.Drawing.Size(1059, 550);
             this.dataGridGV.TabIndex = 0;
             this.dataGridGV.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvLop_Cellclick);
             // 
@@ -201,11 +205,55 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(12, 340);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(49, 16);
+            this.label1.TabIndex = 37;
+            this.label1.Text = "Học kỳ";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(12, 399);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(61, 16);
+            this.label2.TabIndex = 37;
+            this.label2.Text = "Năm học";
+            // 
+            // comboHK
+            // 
+            this.comboHK.FormattingEnabled = true;
+            this.comboHK.Items.AddRange(new object[] {
+            "1",
+            "2"});
+            this.comboHK.Location = new System.Drawing.Point(86, 337);
+            this.comboHK.Name = "comboHK";
+            this.comboHK.Size = new System.Drawing.Size(102, 24);
+            this.comboHK.TabIndex = 38;
+            // 
+            // comboNH
+            // 
+            this.comboNH.FormattingEnabled = true;
+            this.comboNH.Items.AddRange(new object[] {
+            "1",
+            "2"});
+            this.comboNH.Location = new System.Drawing.Point(86, 396);
+            this.comboNH.Name = "comboNH";
+            this.comboNH.Size = new System.Drawing.Size(102, 24);
+            this.comboNH.TabIndex = 38;
+            // 
             // Form1GV
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1307, 574);
+            this.Controls.Add(this.comboNH);
+            this.Controls.Add(this.comboHK);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnRefresh);
             this.Controls.Add(this.btnXoa);
             this.Controls.Add(this.btnSua);
@@ -226,6 +274,7 @@
             this.btnThem.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -243,5 +292,9 @@
         private System.Windows.Forms.Panel btnThem;
         private System.Windows.Forms.Label label15;
         private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.ComboBox comboHK;
+        private System.Windows.Forms.ComboBox comboNH;
     }
 }

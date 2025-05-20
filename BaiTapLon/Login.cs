@@ -80,6 +80,13 @@ namespace BaiTapLon
                                         formGiangVien.ShowDialog();
                                         this.Show();
                                         break;
+                                    case "chunhiem":
+                                        // Mở form dành cho Giảng viên, có thể truyền maGV (relatedId)
+                                        FormCN formGiangVienCN = new FormCN(relatedId); // Giả sử bạn có FormGiangVien
+                                        this.Hide();
+                                        formGiangVienCN.ShowDialog();
+                                        this.Show();
+                                        break;
                                     default:
                                         MessageBox.Show("Vai trò người dùng không hợp lệ.", "Lỗi đăng nhập", MessageBoxButtons.OK, MessageBoxIcon.Error);
                                         break;
