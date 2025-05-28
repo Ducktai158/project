@@ -1,0 +1,600 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\project-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\connecting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\connecting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|c:\\users\\admin\\desktop\\project-main\\baitaplon\\formgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|c:\\users\\admin\\desktop\\project-main\\baitaplon\\formchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formaccout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formaccout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formaccout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formaccout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formdiem1sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formdiem1sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\form1gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\form1gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\form1gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\form1gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\form1gv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\form1gv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formdiem1sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formdiem1sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\login.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formdiemsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formdiemsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formgv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formgv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BaiTapLon||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\formkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|C:\\Users\\admin\\Desktop\\project-main\\baitaplon\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormMain.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormMain.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormMain.cs",
+              "RelativeToolTip": "BaiTapLon\\FormMain.cs",
+              "ViewState": "AQIAAGABAAAAAAAAAAAjwHABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:13:00.634Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form1GV.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Form1GV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Form1GV.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Form1GV.cs",
+              "RelativeToolTip": "BaiTapLon\\Form1GV.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAhwHMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:26:45.097Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormCN.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormCN.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormCN.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormCN.cs",
+              "RelativeToolTip": "BaiTapLon\\FormCN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAArwBIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:35:32.688Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Login.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Login.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Login.cs",
+              "RelativeToolTip": "BaiTapLon\\Login.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAowG0AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:47:54.092Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormGV.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormGV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormGV.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormGV.cs",
+              "RelativeToolTip": "BaiTapLon\\FormGV.cs",
+              "ViewState": "AQIAAJ0BAAAAAAAAAAAgwK0BAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T14:28:03.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormChangePass.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormChangePass.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormChangePass.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormChangePass.cs",
+              "RelativeToolTip": "BaiTapLon\\FormChangePass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:20:56.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormChangePass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormChangePass.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormChangePass.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormChangePass.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormChangePass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:19:09.354Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1GV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Form1GV.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Form1GV.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Form1GV.Designer.cs",
+              "RelativeToolTip": "BaiTapLon\\Form1GV.Designer.cs",
+              "ViewState": "AQIAAFkCAAAAAAAAAAAMwGYCAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T06:56:32.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Login.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Login.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Login.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:50:46.378Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Login.Designer.cs",
+              "RelativeToolTip": "BaiTapLon\\Login.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T14:46:30.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.resx",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Login.resx",
+              "RelativeDocumentMoniker": "BaiTapLon\\Login.resx",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Login.resx",
+              "RelativeToolTip": "BaiTapLon\\Login.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-27T14:46:30.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaiTapLon",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\BaiTapLon.csproj",
+              "RelativeDocumentMoniker": "BaiTapLon\\BaiTapLon.csproj",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\BaiTapLon.csproj",
+              "RelativeToolTip": "BaiTapLon\\BaiTapLon.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T01:58:03.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormDiem1SV.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormDiem1SV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormDiem1SV.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormDiem1SV.cs",
+              "RelativeToolTip": "BaiTapLon\\FormDiem1SV.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:41:13.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FormLoginLog.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormLoginLog.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormLoginLog.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormLoginLog.cs",
+              "RelativeToolTip": "BaiTapLon\\FormLoginLog.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:08:20.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FormLoginLog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormLoginLog.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormLoginLog.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormLoginLog.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormLoginLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:05:21.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormHP.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormHP.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormHP.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormHP.cs",
+              "RelativeToolTip": "BaiTapLon\\FormHP.cs",
+              "ViewState": "AQIAADUBAAAAAAAAAADwv7YAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:24:28.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormGV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormGV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormGV.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormGV.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormGV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:38:35.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormMain.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormMain.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormMain.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:23:12.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormAccout.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormAccout.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormAccout.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormAccout.cs",
+              "RelativeToolTip": "BaiTapLon\\FormAccout.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAArwFUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:44:14.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Connecting.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Connecting.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Connecting.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Connecting.cs",
+              "RelativeToolTip": "BaiTapLon\\Connecting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:40:12.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FormKhenThuong.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormKhenThuong.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormKhenThuong.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormKhenThuong.cs",
+              "RelativeToolTip": "BaiTapLon\\FormKhenThuong.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:02:09.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormKhenThuong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormKhenThuong.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormKhenThuong.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormKhenThuong.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormKhenThuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:54:51.805Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CustomDataGridView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\CustomDataGridView.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\CustomDataGridView.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\CustomDataGridView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:16:52.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CustomDataGridView.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\CustomDataGridView.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\CustomDataGridView.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\CustomDataGridView.cs",
+              "RelativeToolTip": "BaiTapLon\\CustomDataGridView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:16:14.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FormGV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormGV.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormGV.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormGV.Designer.cs",
+              "RelativeToolTip": "BaiTapLon\\FormGV.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:25:51.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormDiemSV.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormDiemSV.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormDiemSV.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormDiemSV.Designer.cs",
+              "RelativeToolTip": "BaiTapLon\\FormDiemSV.Designer.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:36:25.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSV.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormSV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormSV.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormSV.cs",
+              "RelativeToolTip": "BaiTapLon\\FormSV.cs",
+              "ViewState": "AQIAABQCAAAAAAAAAAAAACgBAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:35:02.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormCN.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormCN.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormCN.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormCN.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormCN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:30:30.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1GV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Form1GV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Form1GV.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\Form1GV.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\Form1GV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:23:02.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormAccout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormAccout.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormAccout.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormAccout.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormAccout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:35:58.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormSV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormSV.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormSV.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:10:22.69Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormHP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormHP.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormHP.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormHP.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormHP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:37:32.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormDiemSV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormDiemSV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormDiemSV.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormDiemSV.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormDiemSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:56:06.691Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormDiem1SV.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormDiem1SV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormDiem1SV.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormDiem1SV.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormDiem1SV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:29:08.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormDiemSV.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormDiemSV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormDiemSV.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormDiemSV.cs",
+              "RelativeToolTip": "BaiTapLon\\FormDiemSV.cs",
+              "ViewState": "AQIAACkCAAAAAAAAAAAwwDoCAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:14:51.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormMain.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\project-main\\BaiTapLon\\FormMain.Designer.cs",
+              "RelativeToolTip": "BaiTapLon\\FormMain.Designer.cs",
+              "ViewState": "AQIAAC4CAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:11:31.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

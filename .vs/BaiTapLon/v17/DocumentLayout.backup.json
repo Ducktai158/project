@@ -1,0 +1,543 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|d:\\astudy\\atdl\\cuoiphan\\final\\project-main\\baitaplon\\formdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formdiemsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formdiem1sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formdiem1sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formaccout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formaccout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\form1gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\form1gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formgv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formaccout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formaccout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formdiemsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formdiemsv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formgv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formgv.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formhp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BaiTapLon||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\connecting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\connecting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formloginlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formkhenthuong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\form1gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\form1gv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formdiem1sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formdiem1sv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formsv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\customdatagridview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\formcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\formcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\baitaplon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|solutionrelative:baitaplon\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30B68555-CB82-4DA8-BE3F-F0A408C18895}|BaiTapLon\\BaiTapLon.csproj|d:\\astudy\\atdl\\cuoiphan\\final\\project-main\\baitaplon\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormMain.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormMain.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormMain.cs",
+              "RelativeToolTip": "BaiTapLon\\FormMain.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAjwGQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:13:00.634Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1GV.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Form1GV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Form1GV.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Form1GV.cs",
+              "RelativeToolTip": "BaiTapLon\\Form1GV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:26:45.097Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FormCN.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormCN.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormCN.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormCN.cs",
+              "RelativeToolTip": "BaiTapLon\\FormCN.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAEwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:35:32.688Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Login.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Login.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Login.cs",
+              "RelativeToolTip": "BaiTapLon\\Login.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAqwLEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:47:54.092Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaiTapLon",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\BaiTapLon.csproj",
+              "RelativeDocumentMoniker": "BaiTapLon\\BaiTapLon.csproj",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\BaiTapLon.csproj",
+              "RelativeToolTip": "BaiTapLon\\BaiTapLon.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-27T01:58:03.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "FormDiem1SV.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormDiem1SV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormDiem1SV.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormDiem1SV.cs",
+              "RelativeToolTip": "BaiTapLon\\FormDiem1SV.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwBcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:41:13.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormLoginLog.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormLoginLog.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormLoginLog.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormLoginLog.cs",
+              "RelativeToolTip": "BaiTapLon\\FormLoginLog.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:08:20.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormLoginLog.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormLoginLog.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormLoginLog.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormLoginLog.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormLoginLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T01:05:21.326Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormHP.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormHP.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormHP.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormHP.cs",
+              "RelativeToolTip": "BaiTapLon\\FormHP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T14:24:28.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormGV.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormGV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormGV.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormGV.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormGV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:38:35.73Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormMain.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormMain.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormMain.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:23:12.128Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormAccout.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormAccout.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormAccout.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormAccout.cs",
+              "RelativeToolTip": "BaiTapLon\\FormAccout.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAwwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:44:14.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Connecting.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Connecting.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Connecting.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Connecting.cs",
+              "RelativeToolTip": "BaiTapLon\\Connecting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T06:40:12.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormKhenThuong.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormKhenThuong.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormKhenThuong.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormKhenThuong.cs",
+              "RelativeToolTip": "BaiTapLon\\FormKhenThuong.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwHIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:02:09.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormKhenThuong.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormKhenThuong.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormKhenThuong.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormKhenThuong.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormKhenThuong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T08:54:51.805Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CustomDataGridView.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\CustomDataGridView.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\CustomDataGridView.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\CustomDataGridView.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\CustomDataGridView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:16:52.639Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CustomDataGridView.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\CustomDataGridView.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\CustomDataGridView.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\CustomDataGridView.cs",
+              "RelativeToolTip": "BaiTapLon\\CustomDataGridView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T06:16:14.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormGV.Designer.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormGV.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormGV.Designer.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormGV.Designer.cs",
+              "RelativeToolTip": "BaiTapLon\\FormGV.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:25:51.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormDiemSV.Designer.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormDiemSV.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormDiemSV.Designer.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormDiemSV.Designer.cs",
+              "RelativeToolTip": "BaiTapLon\\FormDiemSV.Designer.cs",
+              "ViewState": "AgIAADEBAAAAAAAAAAAWwDIBAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:36:25.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormSV.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormSV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormSV.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormSV.cs",
+              "RelativeToolTip": "BaiTapLon\\FormSV.cs",
+              "ViewState": "AgIAAKQBAAAAAAAAAAAkwL4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T02:35:02.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormCN.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormCN.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormCN.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormCN.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormCN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:30:30.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1GV.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Form1GV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Form1GV.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Form1GV.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\Form1GV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T02:23:02.858Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormAccout.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormAccout.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormAccout.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormAccout.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormAccout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T01:35:58.568Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormSV.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormSV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormSV.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormSV.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:10:22.69Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormHP.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormHP.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormHP.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormHP.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormHP.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:37:32.851Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormDiemSV.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormDiemSV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormDiemSV.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormDiemSV.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormDiemSV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:56:06.691Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDiem1SV.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormDiem1SV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormDiem1SV.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormDiem1SV.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\FormDiem1SV.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:29:08.774Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormDiemSV.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormDiemSV.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormDiemSV.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormDiemSV.cs",
+              "RelativeToolTip": "BaiTapLon\\FormDiemSV.cs",
+              "ViewState": "AgIAAJwBAAAAAAAAAIAwwP4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:14:51.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Login.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Login.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Login.cs [Design]",
+              "RelativeToolTip": "BaiTapLon\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T06:46:00.099Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\Program.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\Program.cs",
+              "RelativeToolTip": "BaiTapLon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:11:41.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "BaiTapLon\\FormMain.Designer.cs",
+              "ToolTip": "D:\\aStudy\\ATDL\\CuoiPhan\\final\\project-main\\BaiTapLon\\FormMain.Designer.cs",
+              "RelativeToolTip": "BaiTapLon\\FormMain.Designer.cs",
+              "ViewState": "AgIAAK8BAAAAAAAAAAAWwOgBAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T02:11:31.925Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
